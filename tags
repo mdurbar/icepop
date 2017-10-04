@@ -1,0 +1,229 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+$	.cache/static-entry.js	/^var $ = _react2.default.createElement;$/;"	v
+.Hide	src/scss/components/hero.scss	/^.Hide {$/;"	c
+.Show	src/scss/components/hero.scss	/^.Show {$/;"	c
+.fruit-punch	src/scss/components/hero.scss	/^.fruit-punch {$/;"	c
+.header-logo	src/scss/components/header.scss	/^.header-logo {$/;"	c
+.package-image	src/scss/components/hero.scss	/^.package-image {$/;"	c
+.package-image-inner	src/scss/components/hero.scss	/^.package-image-inner {$/;"	c
+.package-image-wrapper	src/scss/components/hero.scss	/^.package-image-wrapper {$/;"	c
+.pop-second-section	src/scss/components/hero.scss	/^.pop-second-section {$/;"	c
+.pophero-bg	src/scss/components/hero.scss	/^.pophero-bg {$/;"	c
+.pophero-bg-2	src/scss/components/hero.scss	/^.pophero-bg-2 {$/;"	c
+.pophero-bg-lemon	src/scss/components/hero.scss	/^.pophero-bg-lemon {$/;"	c
+.pophero-bg-strawberry	src/scss/components/hero.scss	/^.pophero-bg-strawberry {$/;"	c
+.pophero-bg-watermelon	src/scss/components/hero.scss	/^.pophero-bg-watermelon {$/;"	c
+ComponentRenderer	.cache/component-renderer.js	/^var ComponentRenderer = function (_React$Component) {$/;"	f
+ComponentRenderer.ComponentRenderer	.cache/component-renderer.js	/^  function ComponentRenderer(props) {$/;"	f
+DefaultRouter	.cache/production-app.js	/^var DefaultRouter = function DefaultRouter(_ref2) {$/;"	f
+DefaultRouter	.cache/root.js	/^var DefaultRouter = function DefaultRouter(_ref2) {$/;"	f
+HTML	.cache/develop-static-entry.js	/^var HTML = void 0;$/;"	v
+Html	.cache/static-entry.js	/^var Html = void 0;$/;"	v
+Root	.cache/app.js	/^var Root = require(".\/root");$/;"	v
+Root	.cache/root.js	/^var Root = function Root() {$/;"	f
+_apiRunnerBrowser	.cache/production-app.js	/^var _apiRunnerBrowser = require(".\/api-runner-browser");$/;"	v
+_apiRunnerBrowser	.cache/root.js	/^var _apiRunnerBrowser = require(".\/api-runner-browser");$/;"	v
+_apiRunnerBrowser2	.cache/production-app.js	/^var _apiRunnerBrowser2 = _interopRequireDefault(_apiRunnerBrowser);$/;"	v
+_apiRunnerBrowser2	.cache/root.js	/^var _apiRunnerBrowser2 = _interopRequireDefault(_apiRunnerBrowser);$/;"	v
+_apiRunnerSsr	.cache/develop-static-entry.js	/^var _apiRunnerSsr = require(".\/api-runner-ssr");$/;"	v
+_apiRunnerSsr	.cache/static-entry.js	/^var _apiRunnerSsr = require(".\/api-runner-ssr");$/;"	v
+_apiRunnerSsr2	.cache/develop-static-entry.js	/^var _apiRunnerSsr2 = _interopRequireDefault(_apiRunnerSsr);$/;"	v
+_apiRunnerSsr2	.cache/static-entry.js	/^var _apiRunnerSsr2 = _interopRequireDefault(_apiRunnerSsr);$/;"	v
+_asyncRequires	.cache/production-app.js	/^var _asyncRequires = require(".\/async-requires");$/;"	v
+_asyncRequires2	.cache/production-app.js	/^var _asyncRequires2 = _interopRequireDefault(_asyncRequires);$/;"	v
+_classCallCheck2	.cache/component-renderer.js	/^var _classCallCheck2 = require("babel-runtime\/helpers\/classCallCheck");$/;"	v
+_classCallCheck2	.cache/default-html.js	/^var _classCallCheck2 = require("babel-runtime\/helpers\/classCallCheck");$/;"	v
+_classCallCheck3	.cache/component-renderer.js	/^var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);$/;"	v
+_classCallCheck3	.cache/default-html.js	/^var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);$/;"	v
+_componentRenderer	.cache/production-app.js	/^var _componentRenderer = require(".\/component-renderer");$/;"	v
+_componentRenderer	.cache/root.js	/^var _componentRenderer = require(".\/component-renderer");$/;"	v
+_componentRenderer2	.cache/production-app.js	/^var _componentRenderer2 = _interopRequireDefault(_componentRenderer);$/;"	v
+_componentRenderer2	.cache/root.js	/^var _componentRenderer2 = _interopRequireDefault(_componentRenderer);$/;"	v
+_createBrowserHistory	.cache/production-app.js	/^var _createBrowserHistory = require("history\/createBrowserHistory");$/;"	v
+_createBrowserHistory	.cache/root.js	/^var _createBrowserHistory = require("history\/createBrowserHistory");$/;"	v
+_createBrowserHistory2	.cache/production-app.js	/^var _createBrowserHistory2 = _interopRequireDefault(_createBrowserHistory);$/;"	v
+_createBrowserHistory2	.cache/root.js	/^var _createBrowserHistory2 = _interopRequireDefault(_createBrowserHistory);$/;"	v
+_createClass2	.cache/component-renderer.js	/^var _createClass2 = require("babel-runtime\/helpers\/createClass");$/;"	v
+_createClass2	.cache/default-html.js	/^var _createClass2 = require("babel-runtime\/helpers\/createClass");$/;"	v
+_createClass3	.cache/component-renderer.js	/^var _createClass3 = _interopRequireDefault(_createClass2);$/;"	v
+_createClass3	.cache/default-html.js	/^var _createClass3 = _interopRequireDefault(_createClass2);$/;"	v
+_emitter	.cache/component-renderer.js	/^var _emitter = require(".\/emitter");$/;"	v
+_emitter	.cache/loader.js	/^var _emitter = require(".\/emitter");$/;"	v
+_emitter	.cache/production-app.js	/^var _emitter = require(".\/emitter");$/;"	v
+_emitter	.cache/register-service-worker.js	/^var _emitter = require(".\/emitter");$/;"	v
+_emitter2	.cache/component-renderer.js	/^var _emitter2 = _interopRequireDefault(_emitter);$/;"	v
+_emitter2	.cache/loader.js	/^var _emitter2 = _interopRequireDefault(_emitter);$/;"	v
+_emitter2	.cache/production-app.js	/^var _emitter2 = _interopRequireDefault(_emitter);$/;"	v
+_emitter2	.cache/register-service-worker.js	/^var _emitter2 = _interopRequireDefault(_emitter);$/;"	v
+_extends2	.cache/component-renderer.js	/^var _extends2 = require("babel-runtime\/helpers\/extends");$/;"	v
+_extends2	.cache/develop-static-entry.js	/^var _extends2 = require("babel-runtime\/helpers\/extends");$/;"	v
+_extends2	.cache/production-app.js	/^var _extends2 = require("babel-runtime\/helpers\/extends");$/;"	v
+_extends2	.cache/root.js	/^var _extends2 = require("babel-runtime\/helpers\/extends");$/;"	v
+_extends2	.cache/static-entry.js	/^var _extends2 = require("babel-runtime\/helpers\/extends");$/;"	v
+_extends3	.cache/component-renderer.js	/^var _extends3 = _interopRequireDefault(_extends2);$/;"	v
+_extends3	.cache/develop-static-entry.js	/^var _extends3 = _interopRequireDefault(_extends2);$/;"	v
+_extends3	.cache/production-app.js	/^var _extends3 = _interopRequireDefault(_extends2);$/;"	v
+_extends3	.cache/root.js	/^var _extends3 = _interopRequireDefault(_extends2);$/;"	v
+_extends3	.cache/static-entry.js	/^var _extends3 = _interopRequireDefault(_extends2);$/;"	v
+_findPage	.cache/loader.js	/^var _findPage = require(".\/find-page");$/;"	v
+_findPage2	.cache/loader.js	/^var _findPage2 = _interopRequireDefault(_findPage);$/;"	v
+_getIterator2	.cache/app.js	/^var _getIterator2 = require("babel-runtime\/core-js\/get-iterator");$/;"	v
+_getIterator2	.cache/loader.js	/^var _getIterator2 = require("babel-runtime\/core-js\/get-iterator");$/;"	v
+_getIterator3	.cache/app.js	/^var _getIterator3 = _interopRequireDefault(_getIterator2);$/;"	v
+_getIterator3	.cache/loader.js	/^var _getIterator3 = _interopRequireDefault(_getIterator2);$/;"	v
+_getPrototypeOf	.cache/component-renderer.js	/^var _getPrototypeOf = require("babel-runtime\/core-js\/object\/get-prototype-of");$/;"	v
+_getPrototypeOf	.cache/default-html.js	/^var _getPrototypeOf = require("babel-runtime\/core-js\/object\/get-prototype-of");$/;"	v
+_getPrototypeOf2	.cache/component-renderer.js	/^var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);$/;"	v
+_getPrototypeOf2	.cache/default-html.js	/^var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);$/;"	v
+_inherits2	.cache/component-renderer.js	/^var _inherits2 = require("babel-runtime\/helpers\/inherits");$/;"	v
+_inherits2	.cache/default-html.js	/^var _inherits2 = require("babel-runtime\/helpers\/inherits");$/;"	v
+_inherits3	.cache/component-renderer.js	/^var _inherits3 = _interopRequireDefault(_inherits2);$/;"	v
+_inherits3	.cache/default-html.js	/^var _inherits3 = _interopRequireDefault(_inherits2);$/;"	v
+_interopRequireDefault	.cache/app.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/component-renderer.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/default-html.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/develop-static-entry.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/emitter.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/loader.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/production-app.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/register-service-worker.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/root.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_interopRequireDefault	.cache/static-entry.js	/^function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }$/;"	f
+_loader	.cache/component-renderer.js	/^var _loader = require(".\/loader");$/;"	v
+_loader	.cache/production-app.js	/^var _loader = require(".\/loader");$/;"	v
+_loader	.cache/root.js	/^var _loader = require(".\/loader");$/;"	v
+_loader2	.cache/component-renderer.js	/^var _loader2 = _interopRequireDefault(_loader);$/;"	v
+_loader2	.cache/production-app.js	/^var _loader2 = _interopRequireDefault(_loader);$/;"	v
+_loader2	.cache/root.js	/^var _loader2 = _interopRequireDefault(_loader);$/;"	v
+_lodash	.cache/develop-static-entry.js	/^var _lodash = require("lodash");$/;"	v
+_lodash	.cache/static-entry.js	/^var _lodash = require("lodash");$/;"	v
+_mitt	.cache/emitter.js	/^var _mitt = require("mitt");$/;"	v
+_mitt2	.cache/emitter.js	/^var _mitt2 = _interopRequireDefault(_mitt);$/;"	v
+_pages	.cache/develop-static-entry.js	/^var _pages = require(".\/pages.json");$/;"	v
+_pages	.cache/production-app.js	/^var _pages = require(".\/pages.json");$/;"	v
+_pages	.cache/root.js	/^var _pages = require(".\/pages.json");$/;"	v
+_pages	.cache/static-entry.js	/^var _pages = require(".\/pages.json");$/;"	v
+_pages2	.cache/develop-static-entry.js	/^var _pages2 = _interopRequireDefault(_pages);$/;"	v
+_pages2	.cache/production-app.js	/^var _pages2 = _interopRequireDefault(_pages);$/;"	v
+_pages2	.cache/root.js	/^var _pages2 = _interopRequireDefault(_pages);$/;"	v
+_pages2	.cache/static-entry.js	/^var _pages2 = _interopRequireDefault(_pages);$/;"	v
+_possibleConstructorReturn2	.cache/component-renderer.js	/^var _possibleConstructorReturn2 = require("babel-runtime\/helpers\/possibleConstructorReturn");$/;"	v
+_possibleConstructorReturn2	.cache/default-html.js	/^var _possibleConstructorReturn2 = require("babel-runtime\/helpers\/possibleConstructorReturn");$/;"	v
+_possibleConstructorReturn3	.cache/component-renderer.js	/^var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);$/;"	v
+_possibleConstructorReturn3	.cache/default-html.js	/^var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);$/;"	v
+_react	.cache/app.js	/^var _react = require("react");$/;"	v
+_react	.cache/component-renderer.js	/^var _react = require("react");$/;"	v
+_react	.cache/default-html.js	/^var _react = require("react");$/;"	v
+_react	.cache/develop-static-entry.js	/^var _react = require("react");$/;"	v
+_react	.cache/production-app.js	/^var _react = require("react");$/;"	v
+_react	.cache/root.js	/^var _react = require("react");$/;"	v
+_react	.cache/static-entry.js	/^var _react = require("react");$/;"	v
+_react2	.cache/app.js	/^var _react2 = _interopRequireDefault(_react);$/;"	v
+_react2	.cache/component-renderer.js	/^var _react2 = _interopRequireDefault(_react);$/;"	v
+_react2	.cache/default-html.js	/^var _react2 = _interopRequireDefault(_react);$/;"	v
+_react2	.cache/develop-static-entry.js	/^var _react2 = _interopRequireDefault(_react);$/;"	v
+_react2	.cache/production-app.js	/^var _react2 = _interopRequireDefault(_react);$/;"	v
+_react2	.cache/root.js	/^var _react2 = _interopRequireDefault(_react);$/;"	v
+_react2	.cache/static-entry.js	/^var _react2 = _interopRequireDefault(_react);$/;"	v
+_reactDom	.cache/app.js	/^var _reactDom = require("react-dom");$/;"	v
+_reactDom	.cache/production-app.js	/^var _reactDom = require("react-dom");$/;"	v
+_reactDom2	.cache/app.js	/^var _reactDom2 = _interopRequireDefault(_reactDom);$/;"	v
+_reactDom2	.cache/production-app.js	/^var _reactDom2 = _interopRequireDefault(_reactDom);$/;"	v
+_reactHotLoader	.cache/app.js	/^var _reactHotLoader = require("react-hot-loader");$/;"	v
+_reactRouterDom	.cache/find-page.js	/^var _reactRouterDom = require("react-router-dom");$/;"	v
+_reactRouterDom	.cache/production-app.js	/^var _reactRouterDom = require("react-router-dom");$/;"	v
+_reactRouterDom	.cache/root.js	/^var _reactRouterDom = require("react-router-dom");$/;"	v
+_reactRouterDom	.cache/static-entry.js	/^var _reactRouterDom = require("react-router-dom");$/;"	v
+_reactRouterScroll	.cache/production-app.js	/^var _reactRouterScroll = require("react-router-scroll");$/;"	v
+_reactRouterScroll	.cache/root.js	/^var _reactRouterScroll = require("react-router-scroll");$/;"	v
+_server	.cache/develop-static-entry.js	/^var _server = require("react-dom\/server");$/;"	v
+_server	.cache/static-entry.js	/^var _server = require("react-dom\/server");$/;"	v
+_server2	.cache/develop-static-entry.js	/^var _server2 = _interopRequireDefault(_server);$/;"	v
+_socketIo	.cache/app.js	/^var _socketIo = require(".\/socketIo");$/;"	v
+_socketIo2	.cache/app.js	/^var _socketIo2 = _interopRequireDefault(_socketIo);$/;"	v
+_syncRequires	.cache/root.js	/^var _syncRequires = require(".\/sync-requires");$/;"	v
+_syncRequires	.cache/static-entry.js	/^var _syncRequires = require(".\/sync-requires");$/;"	v
+_syncRequires2	.cache/root.js	/^var _syncRequires2 = _interopRequireDefault(_syncRequires);$/;"	v
+_syncRequires2	.cache/static-entry.js	/^var _syncRequires2 = _interopRequireDefault(_syncRequires);$/;"	v
+_this.state.location	.cache/component-renderer.js	/^      location: props.location,$/;"	p
+addNotFoundRoute	.cache/root.js	/^var addNotFoundRoute = function addNotFoundRoute() {$/;"	f
+apiRunner	.cache/app.js	/^var apiRunner = require(".\/api-runner-browser");$/;"	v
+apis	.cache/api-runner-ssr.js	/^var apis = require(".\/api-ssr-docs");$/;"	v
+attachToHistory	.cache/production-app.js	/^function attachToHistory(history) {$/;"	f
+attachToHistory	.cache/root.js	/^function attachToHistory(history) {$/;"	f
+exports.json.dev-404-page.json	.cache/async-requires.js	/^  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!\/Users\/Mufaddal\/Projects\/JavaScript Projects\/icepopco\/.cache\/json\/dev-404-page.json"),$/;"	p
+exports.json.dev-404-page.json	.cache/sync-requires.js	/^  "dev-404-page.json": require("\/Users\/Mufaddal\/Projects\/JavaScript Projects\/icepopco\/.cache\/json\/dev-404-page.json"),$/;"	p
+exports.layouts.index	.cache/async-requires.js	/^  "index": require("gatsby-module-loader?name=layout-component---index!\/Users\/Mufaddal\/Projects\/JavaScript Projects\/icepopco\/src\/layouts\/index")$/;"	p
+exports.layouts.index	.cache/sync-requires.js	/^  "index": preferDefault(require("\/Users\/Mufaddal\/Projects\/JavaScript Projects\/icepopco\/src\/layouts\/index"))$/;"	p
+fetchResource	.cache/loader.js	/^var fetchResource = function fetchResource(resourceName) {$/;"	f
+findPage	.cache/loader.js	/^var findPage = void 0;$/;"	v
+getResourceModule	.cache/loader.js	/^var getResourceModule = function getResourceModule(resourceName, cb) {$/;"	f
+import.Component.children	src/layouts/index.js	/^    children: PropTypes.func,$/;"	p
+import.state.lemonFlavor	src/components/PopHero.js	/^      lemonFlavor: 'Hide'$/;"	p
+import.state.strawberryFlavor	src/components/PopHero.js	/^      strawberryFlavor: 'Hide',$/;"	p
+import.state.watermelonFlavor	src/components/PopHero.js	/^      watermelonFlavor: 'Show',$/;"	p
+inInitialRender	.cache/loader.js	/^var inInitialRender = true;$/;"	v
+layout	.cache/root.js	/^  layout = function layout(_ref3) {$/;"	f
+layout	.cache/root.js	/^var layout = void 0;$/;"	v
+layout	.cache/static-entry.js	/^  layout = function layout(props) {$/;"	f
+layout	.cache/static-entry.js	/^var layout = void 0;$/;"	v
+loadLayout	.cache/production-app.js	/^var loadLayout = function loadLayout(cb) {$/;"	f
+module.exports	.cache/api-runner-browser.js	/^module.exports = function (api, args, defaultReturn) {$/;"	f
+module.exports	.cache/api-runner-ssr.js	/^module.exports = function (api, args, defaultReturn) {$/;"	f
+module.exports	.cache/default-html.js	/^module.exports = function (_React$Component) {$/;"	f
+module.exports	.cache/develop-static-entry.js	/^module.exports = function (locals, callback) {$/;"	f
+module.exports	.cache/find-page.js	/^module.exports = function (pages) {$/;"	f
+module.exports	.cache/prefetcher.js	/^module.exports = function (_ref) {$/;"	f
+module.exports	.cache/static-entry.js	/^module.exports = function (locals, callback) {$/;"	f
+module.exports.HTML	.cache/default-html.js	/^  function HTML() {$/;"	f
+module.exports.reducer	.cache/prefetcher.js	/^  var reducer = function reducer(action) {$/;"	f
+module.exports.replaceBodyHTMLString	.cache/static-entry.js	/^  var replaceBodyHTMLString = function replaceBodyHTMLString(body) {$/;"	f
+module.exports.setBodyProps	.cache/develop-static-entry.js	/^  var setBodyProps = function setBodyProps(props) {$/;"	f
+module.exports.setBodyProps	.cache/static-entry.js	/^  var setBodyProps = function setBodyProps(props) {$/;"	f
+module.exports.setHeadComponents	.cache/develop-static-entry.js	/^  var setHeadComponents = function setHeadComponents(components) {$/;"	f
+module.exports.setHeadComponents	.cache/static-entry.js	/^  var setHeadComponents = function setHeadComponents(components) {$/;"	f
+module.exports.setPostBodyComponents	.cache/develop-static-entry.js	/^  var setPostBodyComponents = function setPostBodyComponents(components) {$/;"	f
+module.exports.setPostBodyComponents	.cache/static-entry.js	/^  var setPostBodyComponents = function setPostBodyComponents(components) {$/;"	f
+module.exports.setPreBodyComponents	.cache/develop-static-entry.js	/^  var setPreBodyComponents = function setPreBodyComponents(components) {$/;"	f
+module.exports.setPreBodyComponents	.cache/static-entry.js	/^  var setPreBodyComponents = function setPreBodyComponents(components) {$/;"	f
+module.exports.startResourceDownloading	.cache/prefetcher.js	/^  var startResourceDownloading = function startResourceDownloading() {$/;"	f
+mountOrder	.cache/loader.js	/^var mountOrder = 1;$/;"	v
+mountOrderBoost	.cache/loader.js	/^    var mountOrderBoost = 1 \/ mountOrder;$/;"	v
+navigateTo	.cache/production-app.js	/^var navigateTo = function navigateTo(pathname) {$/;"	f
+navigateTo	.cache/root.js	/^var navigateTo = function navigateTo(pathname) {$/;"	f
+navigateTo.eventHandler	.cache/production-app.js	/^  function eventHandler(e) {$/;"	f
+noMatch	.cache/root.js	/^var noMatch = void 0;$/;"	v
+page	.cache/loader.js	/^    var page = findPage(path);$/;"	v
+pageResources	.cache/root.js	/^          var pageResources = _loader2.default.getResourcesForPathname(props.location.pathname);$/;"	v
+pageResources.component	.cache/loader.js	/^        component: syncRequires.components[page.componentChunkName],$/;"	p
+pages	.cache/loader.js	/^var pages = [];$/;"	v
+pathArray	.cache/loader.js	/^var pathArray = [];$/;"	v
+pathChunkName	.cache/static-entry.js	/^var pathChunkName = function pathChunkName(path) {$/;"	f
+pathPrefix	.cache/loader.js	/^    var pathPrefix = "";$/;"	v
+pathPrefix	.cache/register-service-worker.js	/^var pathPrefix = "\/";$/;"	v
+plugins	.cache/api-runner-browser.js	/^var plugins = []$/;"	v
+plugins	.cache/api-runner-ssr.js	/^var plugins = []$/;"	v
+preferDefault	.cache/loader.js	/^var preferDefault = function preferDefault(m) {$/;"	f
+prefetcher	.cache/loader.js	/^var prefetcher = void 0;$/;"	v
+props	.cache/root.js	/^          var props = layoutProps ? layoutProps : routeProps;$/;"	v
+resourcesArray	.cache/loader.js	/^var resourcesArray = [];$/;"	v
+rootElement	.cache/app.js	/^var rootElement = document.getElementById("___gatsby");$/;"	v
+shouldUpdateScroll	.cache/production-app.js	/^function shouldUpdateScroll(prevRouterProps, _ref) {$/;"	f
+shouldUpdateScroll	.cache/root.js	/^function shouldUpdateScroll(prevRouterProps, _ref) {$/;"	f
+socketIo	.cache/socketIo.js	/^function socketIo() {$/;"	f
+sortPagesByCount	.cache/loader.js	/^var sortPagesByCount = function sortPagesByCount(a, b) {$/;"	f
+sortResourcesByCount	.cache/loader.js	/^var sortResourcesByCount = function sortResourcesByCount(a, b) {$/;"	f
+static.body	src/html.js	/^    body: PropTypes.string,$/;"	p
+stylesStr	.cache/default-html.js	/^var stylesStr = void 0;$/;"	v
+var._pageResources.component	.cache/loader.js	/^          var _pageResources = { component: component, json: json, page: _page };$/;"	p
+var._pageResources.json	.cache/loader.js	/^          var _pageResources = { component: component, json: json, page: _page };$/;"	p
+var._pageResources.page	.cache/loader.js	/^          var _pageResources = { component: component, json: json, page: _page };$/;"	p
+var.done	.cache/loader.js	/^      var done = function done() {$/;"	f
+var.pathScriptsCache.component	.cache/loader.js	/^          pathScriptsCache[path] = { component: component, json: json, page: _page };$/;"	p
+var.pathScriptsCache.json	.cache/loader.js	/^          pathScriptsCache[path] = { component: component, json: json, page: _page };$/;"	p
+var.pathScriptsCache.page	.cache/loader.js	/^          pathScriptsCache[path] = { component: component, json: json, page: _page };$/;"	p

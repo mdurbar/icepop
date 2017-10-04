@@ -1,0 +1,240 @@
+html {
+  font-family: 'Montserrat', sans-serif!important;
+}
+
+.pophero-bg {
+  position: fixed;
+  top: 0;
+	width: 100vw;
+	height: 100vh;
+  transition: opacity 0.4s ease-in;
+  z-index: -1;
+}
+
+.pophero-bg-lemon {
+	/* background-image: radial-gradient(circle at 0 0, #ffed65, #ffc30c); */
+  background-image: radial-gradient(49% 116%, #FCC916 28%, #FEA51E 100%);
+}
+
+.pophero-bg-watermelon {
+  background-image: radial-gradient(49% 119%, #FF6565 21%, #E50084 100%);
+}
+
+.pophero-bg-strawberry {
+  /* background-image: radial-gradient(49% 120%, #FF6565 21%, #FF500C 100%); */
+  background-image: radial-gradient(49% 120%, #FF6565 21%, #FF500C 100%);
+}
+
+.pophero-bg-chocolate {
+  background-image: radial-gradient(49% 117%, #C99A5E 25%, #B67321 100%);
+}
+
+.pophero-bg-pomme {
+  background-image: radial-gradient(49% -62%, #DA6269 45%, #C4001D 100%);
+}
+
+.pophero-bg-coconut {
+  background-image: radial-gradient(49% 116%, #CAB99A 31%, #A5573E 100%);
+}
+
+.pophero-bg-2 {
+  position: fixed;
+  top: 0;
+  width: 50vw;
+  height: 100vh;
+  background-color: #fefaf6;
+  z-index: 9;
+}
+
+.package-image-wrapper {
+  position: relative;
+}
+
+.package-image {
+  position:absolute;
+  top: 20%;
+  left: 40%;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  background: transparent url(../../public/static/images/package-a.png) no-repeat;
+}
+
+.package-image-inner {
+  position:absolute;
+  top: 25%;
+  left: 39.3%;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  background: transparent url(../../public/static/images/package-b.png) no-repeat;
+}
+
+.Hide {
+  opacity: 0;
+}
+
+.Show {
+  opacity: 1;
+}
+
+.fruit-punch {
+  position:absolute;
+  top: 30%;
+  left: 10%;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  background: transparent url(../../public/static/images/fruit-punch.png) no-repeat;
+}
+
+
+.pop-second-section {
+  width: 100vw;
+	height: 100vh;
+	background-color: #ffc30c;
+}
+
+.vertical-logo {
+  background: url(../../public/static/images/LOGO-2.png) no-repeat;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 30rem;
+  width: 5rem;
+  -o-transform: translate(-115%, -50%);
+  -ms-transform: translate(-115%, -50%);
+  -moz-transform: translate(-115%, -50%);
+  -webkit-transform: translate(-115%, -50%);
+  transform: translate(-115%, -50%);
+  text-align: center;
+  z-index: 999;
+
+}
+
+.icepops {
+  display: block;
+}
+
+.pop-image {
+  height: 36rem;
+  width: 12rem;
+  display: block;
+  transition: opacity 0.4s ease-in;
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-45%, -44%) rotate(0deg);
+  transition: transform 0.2s ease-in;
+}
+
+.chocolate-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/chocolate.png) no-repeat;
+}
+
+.watermelon-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/watermelon.png) no-repeat;
+}
+
+.strawberry-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/strawberry.png) no-repeat;
+}
+
+.pomegrenade-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/pomegrenade.png) no-repeat;
+}
+
+.lemon-sour-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/lemon-sour.png) no-repeat;
+}
+
+.coconut-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/coconut.png) no-repeat;
+}
+
+.strawberry-cream-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/strawberrycream.png) no-repeat;
+}
+
+.container .center {
+  display: block;
+  /* padding: 40px; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.pop-flavour-icons {
+  margin-left: 30%;
+  margin-top: 15rem;
+  @include for-size(phone-only) {
+    margin-left: 0;
+  }
+}
+
+.pop-flavour-icon {
+  position: absolute;
+  transition: opacity 0.4s ease-in;
+  width: 20rem;
+  @include for-size(phone-only) {
+    width: 12rem;
+  }
+}
+
+.pop-flavour-text {
+  font-family: 'Montserrat', sans-serif!important;
+  font-size: 34px!important;
+  margin-top: 2rem;
+  text-align: center;
+  @include for-size(phone-only) {
+    font-size: 23px!important;
+  }
+}
+
+.pop-flavour-icon-svg {
+  height: 8rem;
+  display: block;
+  margin: 0 auto;
+  @include for-size(phone-only) {
+    height: 5rem;
+  }
+}
+
+.watermelon-flavour-text {
+  color: #E50084;
+}
+
+.strawberry-flavour-text {
+  color: #E60054;
+}
+
+.lemon-flavour-text{
+  color: #FCC916;
+}
+
+.chocolate-flavour-text {
+  color: #C99A5E;
+}
+
+.coconut-flavour-text {
+  color: #A5573E;
+}
+
+.pomme-flavour-text {
+  color: #C4001D;
+}

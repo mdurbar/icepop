@@ -1,0 +1,30 @@
+.header-logo {
+	// width: 105.5px;
+	// height: 19.5px;
+  z-index: 10;
+  padding-left: 2rem;
+  width: 6rem;
+  padding-top: 1.3rem;
+}
+
+.header-phone-box {
+  right: 3rem;
+  /* color: darkblue; */
+  position: absolute;
+  z-index: 99;
+  margin-top: 10px;
+  line-height: 20px;
+  display: flex;
+  @include for-size(phone-only) {
+    right: 1rem;
+  }
+}
+
+.header-phone-number {
+  text-decoration: none!important;
+  font-weight: bold;
+  color: #ffffff!important;
+  font-family: 'Montserrat', sans-serif!important;
+  font-size: 24px;
+  margin-left: 15px;
+}

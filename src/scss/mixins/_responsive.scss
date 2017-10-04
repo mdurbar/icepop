@@ -1,0 +1,30 @@
+@mixin for-size($range) {
+  $small-phone-upper-boundary: 350px;
+  $phone-upper-boundary: 600px;
+  $phone-landscape-upper-boundary: 767px;
+  $tablet-portrait-upper-boundary: 900px;
+  $tablet-landscape-upper-boundary: 1200px;
+  $desktop-upper-boundary: 1800px;
+  $ipad-pro-portrait-breakpoint: "(min-device-width : 1024px) and (max-device-width : 1024px) and (min-device-height : 1366px) and (max-device-height : 1366px) and (min-width: 1024px) and (max-width: 1024px)";
+  $ipad-pro-landscape-breakpoint: "(min-device-width : 1024px) and (max-device-width : 1024px) and (min-device-height : 1366px) and (max-device-height : 1366px) and (min-width: 1366px) and (max-width: 1366px)";
+
+  @if $range == phone-only {
+    @media (max-width: #{$phone-upper-boundary - 1}) { @content; }
+  } @else if $range == phone-landscape-up {
+    @media (min-width: $phone-upper-boundary) { @content; }
+  } @else if $range == tablet-portrait-up {
+    @media (min-width: $phone-landscape-upper-boundary) { @content; }
+  } @else if $range == tablet-landscape-up {
+    @media (min-width: $tablet-portrait-upper-boundary) { @content; }
+  } @else if $range == desktop-up {
+    @media (min-width: $tablet-landscape-upper-boundary) { @content; }
+  } @else if $range == ipad-pro-portrait {
+    @media only screen and #{$ipad-pro-portrait-breakpoint} { @content; }
+  } @else if $range == ipad-pro-landscape {
+    @media only screen and #{$ipad-pro-landscape-breakpoint} { @content; }
+  } @else if $range == big-desktop-up {
+    @media (min-width: $desktop-upper-boundary) { @content; }
+  } @else if $range == small-phone-only {
+    @media(max-width: $small-phone-upper-boundary) { @content; }
+  }
+}

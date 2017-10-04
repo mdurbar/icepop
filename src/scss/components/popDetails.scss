@@ -1,0 +1,44 @@
+.pop-image {
+  height: 100vh;
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 25%;
+  left: 43.3%;
+  transition: opacity 0.4s ease-in;
+}
+
+.chocolate-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/chocolate.png) no-repeat;
+}
+
+.watermelon-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/watermelon.png) no-repeat;
+}
+
+.strawberry-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/strawberry.png) no-repeat;
+}
+
+.pomegrenade-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/pomegrenade.png) no-repeat;
+}
+
+.lemon-sour-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/lemon-sour.png) no-repeat;
+}
+
+.coconut-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/coconut.png) no-repeat;
+}
+
+.strawberry-cream-pop {
+  @extend .pop-image;
+  background: url(../../public/static/images/pops/strawberrycream.png) no-repeat;
+}
